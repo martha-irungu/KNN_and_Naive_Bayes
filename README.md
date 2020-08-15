@@ -7,17 +7,25 @@ Study 1
 The objective of this study is to use the Titanic dataset and to accomplish the following:
 i)Using the Titanic dataset, build a model that classifies whether or not the passengers on board the Titanic survived or did not survive.
 To implement this, we will apply the following algorithim:
+
 •	KNearest Neighbours(KNN)
+
 ii)Suggest and apply at least one of the optimization techniques.
+
 iii)Compare the performance of the models and state your conclusion and Provide further recommendations to improve both classifiers.
 
 Study 2
  
 The objective of this study is to use spambase dataset provided to accomplish the following:
+
 i)Build a model that will predict if an email is spam or not spam.
+
 To implement this, we will apply the following algorithims:
+
 •	Naive Bayes classsfier
+
 ii)Suggest and apply at least one of the optimization techniques.
+
 iii)Compare the performance of the models and state your conclusion and Provide further recommendations to improve both classifiers.
 
  
