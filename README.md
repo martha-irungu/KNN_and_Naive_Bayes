@@ -3,6 +3,7 @@
 a) Specifying the question
  
 Study 1
+
 The objective of this study is to use the Titanic dataset and to accomplish the following:
 i)Using the Titanic dataset, build a model that classifies whether or not the passengers on board the Titanic survived or did not survive.
 To implement this, we will apply the following algorithim:
